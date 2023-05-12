@@ -1,0 +1,41 @@
+*{
+    /* border:2px solid green; */
+    box-sizing: border-box;
+}
+.text-blue{
+    color:rgb(89, 122, 244);
+}
+.list-style{
+    list-style-type: armenian;
+}
+.bg-coral{
+    background-color:rgb(239, 218, 209)
+
+}
+.btn-outline-blue{
+    color:#23A6F0;
+    border:2px solid #23A6F0;
+    
+}
+.list-footer{
+    list-style-type: none;
+}
+.card-img{
+    height: 72px;
+    width:72px;
+    padding:5px;
+
+}
+.line{
+    width: 100px;
+    height:5px;
+    background-color:crimson;
+    margin: 10px 0;
+}
+.card-heading{
+    font-size: 42px;
+    font-weight: 800;
+}
+/* .card-border{
+    box-shadow: 10px, 10px, 10px, rgba(0, 0, 0, .5);
+} */
